@@ -1,0 +1,1 @@
+Course 3 in the Intro to Scripting series.  This is focused on data science like importing, analyzing statistics.
